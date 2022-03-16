@@ -2054,7 +2054,9 @@ var staticRenderFns = [
         _c("div", { staticClass: "hero" }, [
           _c("div", { staticClass: "container-fluid" }, [
             _c("div", { staticClass: "row h_400 bg" }, [
-              _c("div", { staticClass: "hero-image col-12 col-md-7" }),
+              _c("div", {
+                staticClass: "hero-image d-none d-md-block col-12 col-md-7",
+              }),
               _vm._v(" "),
               _c(
                 "div",

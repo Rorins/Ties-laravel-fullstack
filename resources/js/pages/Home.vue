@@ -4,7 +4,7 @@
       <div class="hero">
       <div class="container-fluid">
         <div class="row h_400 bg">
-          <div class="hero-image col-12 col-md-7"></div>
+          <div class="hero-image d-none d-md-block col-12 col-md-7"></div>
           <div
             class="
               col-12 col-md-5
