@@ -38383,7 +38383,7 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("li", { staticClass: "nav-item active" }, [
       _c("a", { staticClass: "nav-link", attrs: { href: "#" } }, [
-        _vm._v("Abour Us "),
+        _vm._v("About Us "),
       ]),
     ])
   },
