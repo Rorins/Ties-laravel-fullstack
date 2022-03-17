@@ -6,6 +6,9 @@ import VueRouter from 'vue-router';
 import Home from './pages/Home';
 import Subscribe from './pages/Subscribe';
 import Listeners from './pages/Listeners';
+import Blog from './pages/Blog';
+import Community from './pages/Community';
+import AboutUs from './pages/AboutUs';
 
 //ACTIVATION ROUTER
 Vue.use(VueRouter);
@@ -28,6 +31,21 @@ const router = new VueRouter({
         path:'/listeners',
         name:'listeners',
         component:Listeners,
+    },
+    {
+        path:'/blog',
+        name:'blog',
+        component:Blog,
+    },
+    {
+        path:'/community',
+        name:'community',
+        component:Community,
+    },
+    {
+        path:'/about-us',
+        name:'about-us',
+        component:AboutUs,
     }
 ]
 });

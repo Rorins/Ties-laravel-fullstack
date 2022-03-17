@@ -1,12 +1,10 @@
 <template>
-<section>
 
-</section>
 </template>
 
 <script>
 export default {
-name:'Listeners'
+name:'about-us'
 }
 </script>
 

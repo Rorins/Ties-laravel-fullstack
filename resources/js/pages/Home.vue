@@ -117,9 +117,9 @@
         <div class="h-300 text-center">
           <img src="/storage/Avatars/empathy.png" alt="" />
           <p>Now that you know what we are all about, let's get started.</p>
-          <a href="./subscribe.html" class="btn btn-outline-dark" role="button"
-            >Get started</a
-          >
+          <router-link class="btn btn-outline-dark" role="button" :to="{name: 'subscribe'}">
+              Get started
+          </router-link>
         </div>
       </div>
     </div>

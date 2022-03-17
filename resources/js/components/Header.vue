@@ -10,7 +10,7 @@
       "
     >
       <div>
-        <a class="navbar-brand" href="#"><img src="" alt="" /></a>
+        <a class="navbar-brand" href="#"><img src="/storage/Avatars/logo.png" alt="Ties" /></a>
         <button
           class="navbar-toggler"
           type="button"
@@ -38,7 +38,7 @@
               <router-link class="nav-link" :to="{name: 'listeners'}">Listeners</router-link>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Blog</a>
+              <router-link class="nav-link" :to="{name: 'blog'}">Blog</router-link>
             </li>
             <li class="nav-item dropdown">
               <a
@@ -60,7 +60,7 @@
               </div>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="#">About Us </a>
+              <router-link class="nav-link" :to="{name: 'about-us'}">About us</router-link>
             </li>
           </ul>
         </div>
