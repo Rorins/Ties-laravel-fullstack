@@ -22,5 +22,9 @@ name:'Footer'
 
 <style scoped lang='scss'>
 @import '../../sass/front.scss';
-
+footer{
+    position: fixed;
+    bottom:0;
+    width:100%;
+}
 </style>

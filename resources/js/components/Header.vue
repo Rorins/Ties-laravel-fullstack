@@ -10,7 +10,7 @@
       "
     >
       <div>
-        <a class="navbar-brand" href="#"><img src="/storage/Avatars/logo.png" alt="Ties" /></a>
+        <router-link class="nav-link" :to="{name: 'home'}"><img src="/storage/Avatars/logo.png" alt="Ties" /></router-link>
         <button
           class="navbar-toggler"
           type="button"
