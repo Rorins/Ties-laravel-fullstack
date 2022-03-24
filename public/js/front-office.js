@@ -2390,29 +2390,29 @@ var staticRenderFns = [
             _c("div", { staticClass: "about-me" }, [
               _c("p", [
                 _vm._v(
-                  "My nickname is RorRor: I'm a software developer.\n    "
+                  "My nickname is RorRor: I'm a software developer.\r\n    "
                 ),
                 _c("br"),
                 _vm._v(
-                  "\n    I truly believe technology, if used correctly, can not only connect people but support them phisically and mentally.\n    "
+                  "\r\n    I truly believe technology, if used correctly, can not only connect people but support them phisically and mentally.\r\n    "
                 ),
                 _c("br"),
                 _vm._v(
-                  "\n    Mental health is a very important issue to me, as someone that struggled personally with depression I had a hard time finding support not only in real life\n    but online as well:\n    "
+                  "\r\n    Mental health is a very important issue to me, as someone that struggled personally with depression I had a hard time finding support not only in real life\r\n    but online as well:\r\n    "
                 ),
                 _c("br"),
                 _vm._v(
-                  "\n    mental support was expensive and I understand that not everyone can support it financially.\n    "
+                  "\r\n    mental support was expensive and I understand that not everyone can support it financially.\r\n    "
                 ),
                 _c("br"),
                 _vm._v(
-                  "\n    Some of us may feel ashamed to look out for help where they live, others may just want to vent it all out and may not feel the urge to start therapy with a professional.\n"
+                  "\r\n    Some of us may feel ashamed to look out for help where they live, others may just want to vent it all out and may not feel the urge to start therapy with a professional.\r\n"
                 ),
               ]),
               _vm._v(" "),
               _c("p", [
                 _vm._v(
-                  "\n    I realized I had to use my skills to change this.\n    I wanted to create something I always desired:  A safe and warm enviroment, welcoming and open to anybody.\n\n"
+                  "\r\n    I realized I had to use my skills to change this.\r\n    I wanted to create something I always desired:  A safe and warm enviroment, welcoming and open to anybody.\r\n\r\n"
                 ),
               ]),
             ]),
@@ -2431,29 +2431,29 @@ var staticRenderFns = [
             _c("div", { staticClass: "about-me" }, [
               _c("p", [
                 _vm._v(
-                  "My nickname is RorRor: I'm a software developer.\n    "
+                  "My nickname is RorRor: I'm a software developer.\r\n    "
                 ),
                 _c("br"),
                 _vm._v(
-                  "\n    I truly believe technology, if used correctly, can not only connect people but support them phisically and mentally.\n    "
+                  "\r\n    I truly believe technology, if used correctly, can not only connect people but support them phisically and mentally.\r\n    "
                 ),
                 _c("br"),
                 _vm._v(
-                  "\n    Mental health is a very important issue to me, as someone that struggled personally with depression I had a hard time finding support not only in real life\n    but online as well:\n    "
+                  "\r\n    Mental health is a very important issue to me, as someone that struggled personally with depression I had a hard time finding support not only in real life\r\n    but online as well:\r\n    "
                 ),
                 _c("br"),
                 _vm._v(
-                  "\n    mental support was expensive and I understand that not everyone can support it financially.\n    "
+                  "\r\n    mental support was expensive and I understand that not everyone can support it financially.\r\n    "
                 ),
                 _c("br"),
                 _vm._v(
-                  "\n    Some of us may feel ashamed to look out for help where they live, others may just want to vent it all out and may not feel the urge to start therapy with a professional.\n"
+                  "\r\n    Some of us may feel ashamed to look out for help where they live, others may just want to vent it all out and may not feel the urge to start therapy with a professional.\r\n"
                 ),
               ]),
               _vm._v(" "),
               _c("p", [
                 _vm._v(
-                  "\n    I realized I had to use my skills to change this.\n    I wanted to create something I always desired:  A safe and warm enviroment, welcoming and open to anybody.\n\n"
+                  "\r\n    I realized I had to use my skills to change this.\r\n    I wanted to create something I always desired:  A safe and warm enviroment, welcoming and open to anybody.\r\n\r\n"
                 ),
               ]),
             ]),
