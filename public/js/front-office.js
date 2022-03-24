@@ -197,6 +197,7 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   name: 'Header'
 });
@@ -2187,6 +2188,8 @@ var render = function () {
                 _c(
                   "li",
                   [
+                    _c("a", { attrs: { href: "/authenticated/register" } }),
+                    _vm._v(" "),
                     _c(
                       "router-link",
                       {

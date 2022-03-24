@@ -29,6 +29,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
             <li>
+                <a href="/authenticated/register"></a>
               <router-link class="btn btn-outline-dark" role="button" :to="{name: 'subscribe'}">Get started</router-link>
             </li>
             <li class="nav-item active">
